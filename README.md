@@ -6,6 +6,11 @@ A personal catalog of tools and platforms explored through hands-on tutorials, e
 
 ## Developer Experience   
 
+- **Dev Containers**  
+  _Tags_ : VSC Extension, CLI, full-featured environment  
+  _Docs_ : https://containers.dev/overview  
+  _Notes_: Local container as a full-featured development environment build from the specification file in .json format
+
 - **Jupyter notebook**  
   _Tags_ : open-source, documentation, Python interpreter  
   _Docs_ : https://docs.jupyter.org/  
