@@ -3,6 +3,17 @@
 A personal catalog of tools and platforms explored through hands-on tutorials, events, and experiments. Organized to reflect what I learn, not what’s perfect.
 
 ---
+## IDE (Integrated Developer Environment)
+
+- **VS Code (Visual Studio Code)**  
+  _Tags_ : IDE, open-source, cross-platform, extensions, AI-powered, container-dev  
+  _Docs_ : https://code.visualstudio.com/docs  
+  _Notes_: VS Code is a lightweight, free code editor which runs on MacOS, Linux and Windows operating systems. GitHub copilot is an integrated AI chat and agent. It is extensible and widely used in cloud-native setups.
+
+- **WebStorm by JetBrains**  
+  _Tags_ : IDE, JavaScript, TypeScript, framework-aware, JetBrains  
+  _Docs_ : https://www.jetbrains.com/help/webstorm/meet-webstorm.html  
+  _Notes_: WebStorm is a powerful, commercial IDE developed by JetBrains, tailored for JavaScript and TypeScript development. It runs on macOS, Linux, and Windows. Beside typical IDE features it provides seamless integration with modern web frameworks like React, Angular, and Vue. Popular for its built-in support for testing, refactoring, and version control.  
 
 ## Developer Experience   
 
@@ -42,4 +53,4 @@ A personal catalog of tools and platforms explored through hands-on tutorials, e
   
       
 ---
-_Last updated: June 2025_
+_Last updated: July 2025_
