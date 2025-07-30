@@ -27,6 +27,13 @@ A personal catalog of tools and platforms explored through hands-on tutorials, e
   _Docs_ : https://docs.jupyter.org/  
   _Notes_: Computational notebook that combines computer code, plain language descriptions, data, visualizations and interactive controls. Serves as interactive environment for prototyping code, exploring and visualizing data, and sharing ideas with others.
 
+## AI & Inteligence   
+
+- **Snowflake Cortex**  
+  _Tags_ : AI automation, Agentic workflows, LLM-integrated, data orchestration, multicloud, semantic search, Snowflak-native  
+  _Docs_ : https://docs.snowflake.com/en/guides-overview-ai-features  
+  _Notes_: : Snowflake Cortex is Snowflake's embedded AI suite for building intelligent, agentic applications directly within the Data Cloud. It empowers users to query structured data using natural language, orchestrate tasks across mixed data types, and build multimodal workflows with minimal code.
+
 ## DevOps & Automation
 
 - **CircleCI**  
